@@ -1,0 +1,18 @@
+
+Run the script: 
+				python IIG_AWS_Analyzer tool-V2.py
+
+Provide the directory path where your .dat files are stored.
+Select the file index and your desired filter strength.
+Plots are automatically saved as 300 DPI .png files for publication use.
+
+Data Compatibility
+
+This tool is optimized for Campbell Scientific CR1000/CR1000X loggers.
+Supported: TOA5 ASCII (.dat, .csv)
+Not Supported: Binary TOB1 (Use Campbell Scientific CardConvert to convert to TOA5 first).
+
+
+---
+
+#
